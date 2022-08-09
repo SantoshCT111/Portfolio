@@ -1,0 +1,240 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+    font-family: Poppins;
+   
+    
+}
+html,body {
+    height: 100vh;
+}
+body {
+    background-image: url(./stephen-leonardi-UpLc15XrHBo-unsplash.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+
+
+
+    
+
+}
+.main-upper {
+   
+ 
+ 
+   
+
+    color: white;
+
+}
+nav {
+    position: sticky;
+    top: 0;
+ 
+    display: flex;
+    justify-content: space-between;
+    padding: 0 80px;
+    background-color: #03203C;
+    color: white;
+    align-items: center;
+    height: 60px;
+}
+.nav-item a {
+    text-decoration: none;
+    color: white;
+    padding: 0px 20px;
+ 
+
+}
+.nav-items {
+    display: flex;
+    align-items: center;
+
+   
+}
+.icons
+{
+    margin: 0px 20px;
+
+}
+.icons i {
+    width: 40px;
+}
+.Welcome {
+    height: 400px;
+   
+   
+
+
+}
+.Welcome h1 {
+    font-size: 80px;
+    text-align: center;
+ 
+}
+.middle {
+    height: 95vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.main-about {
+    display: flex;
+   
+ 
+    background-color: white;
+  
+    box-shadow: -2px 1px 22px 0px rgba(0,0,0,0.75);
+
+
+}
+.about-img img {
+   
+    height: 100%;
+    width: 45vw;
+    padding: 0;
+   
+  
+}
+.about-img{
+
+}
+.about-text {
+    background-color: #242B2E;
+    color: white;
+ 
+
+    padding: 200px 40px;
+  
+}
+.about-text  h1 {
+    color: #5A20CB;
+}
+.white-space {
+    height: 20vh;
+  
+}
+.main-cards{
+    width: 100vw;
+    background-color: #1f2731;
+    color: white;
+    display: flex;
+    position: relative;
+ 
+
+    
+    
+
+}
+
+.card img {
+    width: 30vw;
+    height: 240px;
+
+}
+.websites {
+    
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 80px;
+    justify-content: space-between;
+
+   
+    
+}
+.card {
+    margin: 20px;
+ 
+
+  
+    background-color:#CAD5E2 ;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    color: black;
+    box-shadow: -7px 0px 17px 0px rgba(0,0,0,0.75);
+}
+.buttons   {
+    display: flex;
+    justify-content: center;
+   
+  
+
+
+   
+  
+    padding: 10px;
+
+  
+    
+}
+.buttons button {
+    margin-left: 10px;
+    
+    width: 120px;
+    height: 35px;
+    margin-bottom: 5px;
+    border: 2px solid #1f2731;
+    border-radius: 4px;
+    
+    
+    background-color: #CAD5E2;
+    color: black;
+    font-size: 20px;
+   
+
+}
+.white-space {
+    background-color: #1f2731;
+    color: wheat;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+   
+   
+}
+.contact {
+    display: flex;
+    background-color: #0f1922;
+    margin-top: 80px;
+    color: white;
+    padding: 80px;
+    justify-content: space-around;
+}
+form {
+    margin-right: 400px;
+
+}
+form div {
+    margin-bottom: 10px;
+}
+form input {
+    background-color: #1f2731;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: 1px solid #758283;
+  
+}
+form textarea {
+    background-color: #1f2731;
+    color: white;
+    border-radius: 10px;
+    border: 1px solid #758283;
+    padding: 10px 20px;
+}
+.but-last button {
+    width: 120px;
+    height: 40px;
+    font-size: 16px;
+
+}
+.but-last  {}
+ 
+    
+
+
+
